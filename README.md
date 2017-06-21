@@ -8,3 +8,36 @@ DecisionTree.py - DecisonTree model for training and testing of tweets
 MaximumEntropy.py - MaxEnt model for training and testing of tweets 
 train.csv - training data 
 test.csv - 20% testing data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+gcjkckjc
